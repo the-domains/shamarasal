@@ -1,0 +1,28 @@
+name: shamarasal
+favicon: null
+layout_spectrum: 0.32678994722664356
+typography_spectrum: 0.1014720092061907
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6110863562207669
+  lightness: 0.8721549697220325
+  saturation: 0.9714300190098584
+  rhythmicContrast: 0.9477294217795134
+purpose: []
